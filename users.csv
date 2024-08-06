@@ -1,0 +1,3 @@
+username,display_name,password,email,groups,quota
+bob,Robert Wang,,bob@example.com,devs,5 GB
+
